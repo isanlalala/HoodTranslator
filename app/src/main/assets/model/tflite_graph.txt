@@ -1,0 +1,6 @@
+oil_input
+water_input
+Windshield_Wiper
+wheels
+Mercedes
+inlet
